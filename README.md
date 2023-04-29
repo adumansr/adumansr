@@ -4,8 +4,8 @@ I'm a self-taught MERN stack developer who's passionate about building web appli
 
 ## 🔭 Current Projects
 
-- [Project 1](link-to-project): A project that demonstrates my MERN stack skills.
-- [Project 2](link-to-project): Another project that showcases my front-end development skills.
+- [Recipies](link-to-project):  A project that demonstrate my basic html skills
+<!-- - [Project 2](link-to-project): Another project that showcases my front-end development skills. -->
 
 ## 🌱 Learning and Growth
 
