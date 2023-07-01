@@ -1,10 +1,10 @@
 # Hi there! 👋
+Hi I'm Muhammad aka Adu it's just my childhood nickname nobody knows what it means even my mom. im a self-taught developer. i love building stuff. I enjoy web development especially the backend stuff, loves exploring new languages, solving problems and always improving myself as a Person and a dev.
 
-I'm a self-taught MERN stack developer who's passionate about building web applications and contributing to open-source projects. Currently, I'm on the hunt for a tech job where I can apply my skills and continue to learn and grow as a developer.
 
 ## 🔭 Current Projects
 
-- [Recipies](link-to-project):  A project that demonstrate my basic html skills
+- [my personal blog](link-to-project):  A project that demonstrate my basic html skills
 <!-- - [Project 2](link-to-project): Another project that showcases my front-end development skills. -->
 
 ## 🌱 Learning and Growth
