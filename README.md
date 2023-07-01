@@ -4,7 +4,7 @@ Hi I'm Muhammad aka Adu it's just my childhood nickname nobody knows what it mea
 
 ## 🔭 Current Projects
 
-[- [my personal blog](link-to-project)](https://github.com/adumansr/personal_blog): it's my spot on the internet where i document what i learn, share my projects and my thoughts.
+[my personal blog](link-to-project)(https://github.com/adumansr/personal_blog): it's my spot on the internet where i document what i learn, share my projects and my thoughts.
 
 <!-- - [Project 2](link-to-project): Another project that showcases my front-end development skills. -->
 
